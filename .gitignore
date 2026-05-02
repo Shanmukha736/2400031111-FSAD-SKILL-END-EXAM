@@ -1,0 +1,19 @@
+target/
+.idea/
+.vscode/
+*.log
+*.class
+*.jar
+.settings/
+.project
+.classpath
+.factorypath
+.apt_generated
+.springBeans
+.sts4-cache
+bin/
+build/
+
+# Ignore configuration with credentials
+src/main/resources/application.properties
+src/main/resources/application.yml
